@@ -1,6 +1,9 @@
 # Ignore compiled CSS - edit SASS!
 *.css
 
+# Ignore sass cache
+.sass-cache
+
 # Misc ignorables
 .DS_Store
 .idea
